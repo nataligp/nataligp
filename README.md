@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
+<a href="https://github.com/nataligp">
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nataligp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nataligp)](https://github.com/anuraghazra/github-readme-stats)
 </div>
