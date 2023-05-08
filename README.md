@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nataligp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nataligp)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
 ![Snake animation](https://github.com/nataligp/nataligp/blob/output/github-contribution-grid-snake.svg)
