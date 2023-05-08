@@ -1,5 +1,4 @@
-# Natali Guimarães Paulino
-## Hello, Devs!!
+## Natali Guimarães Paulino
 
 Here are some ideas to get you started:
 
