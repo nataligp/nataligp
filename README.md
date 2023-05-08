@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nataligp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Snake animation](https://github.com/nataligp/nataligp/blob/output/github-contribution-grid-snake.svg)
