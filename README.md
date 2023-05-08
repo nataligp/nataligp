@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**nataligp/nataligp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Natali Guimarães Paulino
+## Hello, Devs!!
 
 Here are some ideas to get you started:
 
