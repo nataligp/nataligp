@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nataligp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataligp&layout=compact&langs_count=7&theme=dracula"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataligp&theme=midnight-purple&show_icons=true)
   
 ![Snake animation](https://github.com/nataligp/nataligp/blob/output/github-contribution-grid-snake.svg)
